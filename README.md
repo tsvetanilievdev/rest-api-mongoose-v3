@@ -3,11 +3,11 @@
 ## I recreated Scott Moss' REST API 
 Used frameworks and libraries:
 - ### Express
-### MongoDB and Mongoose
-### JWT
-### Bcrypt
-### JEST
-### Babel compiler
+- ### MongoDB and Mongoose
+- ### JWT
+- ### Bcrypt
+- ### JEST
+- ### Babel compiler
 
 ## I done following steps
 - [Routing](#routing)
@@ -33,7 +33,6 @@ I used Mongoose and MongoDb to create a schema and model for the Item resource.
 - [X] ensure all tests pass by running test command
 
 ### Controllers
-
 - [X] create CRUD resolvers in `utils/crud.js`
 - [X] create controllers for the Item resources using the base crud resolvers
 - [X] ensure all tests pass by running test command
