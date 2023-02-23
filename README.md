@@ -2,7 +2,7 @@
 
 ## I recreated Scott Moss' REST API 
 Used frameworks and libraries:
-### Express
+- ### Express
 ### MongoDB and Mongoose
 ### JWT
 ### Bcrypt
