@@ -1,6 +1,6 @@
 # API design in Node.js with Express, v3
 
-## I recreated Scott Moss'es REST API 
+## I recreated Scott Moss' REST API 
 Used frameworks and libraries:
 ### Express
 ### MongoDB and Mongoose
