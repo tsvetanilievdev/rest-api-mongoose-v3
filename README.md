@@ -28,8 +28,8 @@ I created routes and sub routers for our soon the be DB resources using Express 
 I used Mongoose and MongoDb to create a schema and model for the Item resource.
 
 - [X] create a schema for the item resource
-- [X] add the correct fields (look at test)
-- [X] add the correct validations (look at test)
+- [X] add the correct fields 
+- [X] add the correct validations 
 - [X] ensure all tests pass by running test command
 
 ### Controllers
