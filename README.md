@@ -10,11 +10,11 @@ Used frameworks and libraries:
 ### Babel compiler
 
 ## I done following steps
-[Routing](#routing)
-[Create Schemas](#create-schemas)
-[Controllers](#controllers)
-[Authentication](#authentication)
-[Testing](#testing)
+- [Routing](#routing)
+- [Create Schemas](#create-schemas)
+- [Controllers](#controllers)
+- [Authentication](#authentication)
+- [Testing](#testing)
 
 
 ### Routing
