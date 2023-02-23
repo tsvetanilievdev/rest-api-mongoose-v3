@@ -1,6 +1,13 @@
 # API design in Node.js with Express, v3
 
 ## I recreated Scott Moss'es REST API 
+Used frameworks and libraries:
+### Express
+### MongoDB and Mongoose
+### JWT
+### Bcrypt
+### JEST
+### Babel compiler
 
 ## I done following steps
 [Routing](#routing)
